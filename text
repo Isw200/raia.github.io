@@ -1,0 +1,13 @@
+.homeContainer .swiper-slide .blinedTitle{
+    font-size: 12rem;
+}
+.homeContainer .title{
+    font-size: 5rem;
+    width: 39%;
+}
+.homeContainer .homeContent{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    margin: 7em 7% 0 0;
+}
